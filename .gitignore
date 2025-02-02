@@ -1,0 +1,7 @@
+.idea
+Lib
+module/__pycache__
+Scripts
+venv
+.env
+lineNoti.exe
